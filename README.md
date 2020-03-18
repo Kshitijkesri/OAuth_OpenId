@@ -8,7 +8,7 @@ IdentityServer is used because it implements both OAuth 2. 0 and OpenID Connect 
 
 # Project Description
 
-This Project can be used for authentication and authorization, Those already using Keycloak/Active Diretory or other such OAUTH vendor can easily replaced existing one with this Solution.
+This Project can be used for authentication and authorization, Those already using Keycloak/Active Directory or other such OAUTH vendor can use this solution in place of Keycloak/Active Directory etc.
 
 InMemoryConfig file has Clients,User,Scope parts where one can introduce their own Test Clients and Users.
 
