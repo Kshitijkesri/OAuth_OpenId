@@ -14,6 +14,6 @@ InMemoryConfig file has Clients,User,Scope parts where one can introduce their o
 
 # How to build
 
-Download The Project
-Install IdentityServer4 Using Nuget 
+Download The Project,
+Install IdentityServer4 Using Nuget,
 Build and Run The Project
